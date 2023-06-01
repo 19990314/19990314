@@ -1,4 +1,6 @@
-### 👋Hi there, this is Shuting Chen. I am:
+### 👋 Hi there, this is Shuting Chen. 
+
+I am:
 
 🇨🇳 a native Chinese
 
