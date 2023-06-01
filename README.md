@@ -10,7 +10,7 @@ I am:
 
 🐦 alumni of Johns Hopkins University
 
-I code for the field of Bioinformatics and some softwares. I love life science and I am fascenated by the process of decoding carbon-based lifes by silicon-based machines. At this moment, my focus is on deep learning neural networks to recreate the biological system of signaling pathways. 
+> I code for the field of Bioinformatics and some softwares. I love life science and I am fascenated by the process of decoding carbon-based lifes by silicon-based machines. At this moment, my focus is on deep learning neural networks to recreate the biological system of signaling pathways. 
 
 You can track my repositories at the bottom of the page. Please feel free to contact me if you:
 
