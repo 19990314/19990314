@@ -6,11 +6,11 @@ def Myself():
 
 &emsp;born_in = 🇨🇳 China
 
-  live_in = 🇺🇸 US
+&emsp;live_in = 🇺🇸 US
 
-  undergrad = 🐻 Baylor Univeristy
+&emsp;undergrad = 🐻 Baylor Univeristy
 
-  graduate = 🐦 Johns Hopkins University
+&emsp;graduate = 🐦 Johns Hopkins University
 
 
 > I code for the field of Bioinformatics and some softwares. I love life science and I am fascenated by the process of decoding carbon-based lifes by silicon-based machines. At this moment, my focus is on deep learning neural networks to recreate the biological system of signaling pathways. 
