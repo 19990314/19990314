@@ -1,14 +1,17 @@
 ### 👋 Hi there, this is Shuting Chen. 
 
-I am:
+> Self-Intro
 
-🇨🇳 a native Chinese
+def Myself():
 
-🇺🇸 live in US right now
+  born_in = 🇨🇳 China
 
-🐻 alumni of Baylor Univeristy
+  live_in = 🇺🇸 US
 
-🐦 alumni of Johns Hopkins University
+  undergrad = 🐻 Baylor Univeristy
+
+  graduate = 🐦 Johns Hopkins University
+
 
 > I code for the field of Bioinformatics and some softwares. I love life science and I am fascenated by the process of decoding carbon-based lifes by silicon-based machines. At this moment, my focus is on deep learning neural networks to recreate the biological system of signaling pathways. 
 
@@ -20,6 +23,7 @@ You can track my repositories at the bottom of the page. Please feel free to con
 
 🤝 have research/job positions right for me (✨✨)
 
+> Contact Me
 
 📫 How to reach me:
 
