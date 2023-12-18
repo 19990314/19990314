@@ -13,7 +13,7 @@ def Myself():
 &emsp;graduate = 🐦 Johns Hopkins University
 
 
-> I code for the field of Bioinformatics and some softwares. I love life science and I am fascenated by the process of decoding carbon-based lifes by silicon-based machines. At this moment, my focus is on deep learning neural networks to recreate the biological system of signaling pathways. 
+> I code for the field of Bioinformatics and some softwares. To me, the most fascenating part of being a Binf Engineer is to decode carbon-based life by silicon-based approaches. In this moment, my primary focus is to develop deep neural networks which are biological inspired and could recreate cell actvities such as signaling pathways. 
 
 You can track my repositories at the bottom of the page. Please feel free to contact me if you:
 
@@ -27,7 +27,7 @@ You can track my repositories at the bottom of the page. Please feel free to con
 
 📫 How to reach me:
 
-Find me in Baltimore MD, OR via:
+Find me in Los Angeles CA, OR via:
 
 email: cst990314@gmail.com
 
