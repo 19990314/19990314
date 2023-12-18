@@ -19,9 +19,9 @@ You can track my repositories at the bottom of the page. Please feel free to con
 
 💬 have any questions
 
-👯 want to join any of my project
+👯 want to join my projects
 
-🤝 have research/job positions right for me (✨✨)
+🤝 have research opportunties
 
 > Contact Me
 
