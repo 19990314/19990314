@@ -1,39 +1,39 @@
-### 👋 Hi there, this is Shuting Chen. 
+### 👋 Hi there, this is Shuting (Iris) Chen. 
 
 > Self-Intro
 
-def Myself():
+def Iris():
 
 &emsp;born_in = 🇨🇳 China
 
-&emsp;live_in = 🇺🇸 US
+&emsp;live_in = 🇺🇸 LA
 
 &emsp;undergrad = 🐻 Baylor Univeristy
 
-&emsp;graduate = 🐦 Johns Hopkins University
+&emsp;master = 🐦 Johns Hopkins University
 
+&emsp;graduate = 🐦 University of Southern California
 
-> I code for the field of Bioinformatics and some softwares. To me, the most fascenating part of being a Binf Engineer is to decode carbon-based life by silicon-based approaches. In this moment, my primary focus is to develop deep neural networks which are biological inspired and could recreate cell actvities such as signaling pathways. 
+> I aim to decode carbon-based life in silicon-based approaches --- developing deep neural networks in biological-inspired architechture powered with data-oriented optimization strategies. 
 
-You can track my repositories at the bottom of the page. Please feel free to contact me if you:
+My project repos are public. Please feel free to contact me if you:
 
-💬 have any questions
+💬 have questions/suggestions/critics about them
 
-👯 want to join my projects
+🤝 want to collaborate
 
-🤝 have research opportunties
 
 > Contact Me
 
-📫 How to reach me:
-
-Find me in Los Angeles CA, OR via:
+Catch me in Los Angeles CA, OR:
 
 email: cst990314@gmail.com
 
 phone: 202-500-5016
 
 instagram: chenshuting0314
+
+linkedin: https://www.linkedin.com/in/shuting-chen-511917258/
 
 <!--
 **19990314/19990314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
