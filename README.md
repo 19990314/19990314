@@ -12,7 +12,7 @@ def Iris():
 
 &emsp;master = 🐦 Johns Hopkins University
 
-&emsp;graduate = 🐦 University of Southern California (present)
+&emsp;graduate = 🧲 University of Southern California (present)
 
 &emsp;love = 🎾Tennis🥨Baking🥊Boxing
 
