@@ -12,11 +12,13 @@ def Iris():
 
 &emsp;master = 🐦 Johns Hopkins University
 
-&emsp;graduate = 🐦 University of Southern California
+&emsp;graduate = 🐦 University of Southern California (present)
 
 &emsp;love = 🎾Tennis🥨Baking🥊Boxing
 
-> ## I aim to decode carbon-based life in silicon-based approaches --- developing deep neural networks in biological-inspired architechture powered with data-oriented optimization strategies. 
+> ## Study interest
+
+I aim to decode carbon-based life in silicon-based approaches --- developing deep neural networks in biological-inspired architechture powered with data-oriented optimization strategies. 
 
 My project repos are public. Please feel free to contact me if you:
 
