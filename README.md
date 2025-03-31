@@ -1,6 +1,6 @@
-### 👋 Hi there, this is Shuting (Iris) Chen. 
+## 👋 Hi there, this is Shuting (Iris) Chen. 
 
-> Self-Intro
+> ## Self-Intro
 
 def Iris():
 
