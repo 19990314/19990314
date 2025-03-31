@@ -16,7 +16,7 @@ def Iris():
 
 &emsp;love = 🎾Tennis🥨Baking🥊Boxing
 
-> I aim to decode carbon-based life in silicon-based approaches --- developing deep neural networks in biological-inspired architechture powered with data-oriented optimization strategies. 
+> ## I aim to decode carbon-based life in silicon-based approaches --- developing deep neural networks in biological-inspired architechture powered with data-oriented optimization strategies. 
 
 My project repos are public. Please feel free to contact me if you:
 
@@ -25,7 +25,7 @@ My project repos are public. Please feel free to contact me if you:
 🤝 want to collaborate
 
 
-> Contact Me
+> ## Contact Me
 
 Catch me in Los Angeles CA, OR:
 
