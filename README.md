@@ -1,4 +1,4 @@
-## Shuting (Iris) Chen
+## Shuting Chen
 
 Neuroscience PhD student at the University of Southern California with a computer science background. I build machine learning models that decode behavior and motor states from noisy biological time series.
 
