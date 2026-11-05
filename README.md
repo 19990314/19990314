@@ -33,10 +33,6 @@ Catch me in Los Angeles CA, OR:
 
 email: cst990314@gmail.com
 
-phone: 202-500-5016
-
-instagram: chenshuting0314
-
 linkedin: https://www.linkedin.com/in/shuting-chen-511917258/
 
 <!--
